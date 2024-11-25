@@ -71238,7 +71238,7 @@ GameObject:
   - component: {fileID: 1895453693}
   m_Layer: 0
   m_Name: climing ivy 1 (1)
-  m_TagString: Untagged
+  m_TagString: Rope
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -72933,6 +72933,7 @@ GameObject:
   - component: {fileID: 2050975636}
   - component: {fileID: 2050975634}
   - component: {fileID: 2050975637}
+  - component: {fileID: 2050975639}
   m_Layer: 0
   m_Name: Milo
   m_TagString: Untagged
@@ -73092,14 +73093,55 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0fbaeb0d1580a184ca9b1ac0a99f9b7a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 3
-  jumpPower: 20
+  groundCheck: {fileID: 0}
   groundLayer:
     serializedVersion: 2
     m_Bits: 64
-  wallLayer:
-    serializedVersion: 2
-    m_Bits: 128
+  groundCheckRadius: 0.2
+  walkSpeed: 5
+  runSpeed: 8
+  acceleration: 50
+  deceleration: 50
+  walkThreshold: 0.25
+  deadzone: 0.1
+  normalJumpConfig:
+    jumpForce: 12
+    doubleJumpForce: 10
+    maxFallSpeed: 20
+    risingGravityMult: 1
+    fallingGravityMult: 2.5
+    fastFallGravityMult: 3
+    jumpCutMultiplier: 0.5
+    maxHorizontalSpeed: 8
+    airControlStrength: 0.2
+  longJumpConfig:
+    jumpForce: 12
+    doubleJumpForce: 10
+    maxFallSpeed: 20
+    risingGravityMult: 1
+    fallingGravityMult: 2.5
+    fastFallGravityMult: 3
+    jumpCutMultiplier: 0.5
+    maxHorizontalSpeed: 8
+    airControlStrength: 0.2
+    forceMultiplier: 1.5
+    horizontalBoostMultiplier: 2.5
+    verticalReducer: 0.5
+    dashSpeed: 15
+    launchSpeed: 20
+    launchAngle: 45
+  maxJumpCount: 2
+  coyoteTime: 0.2
+  jumpBufferTime: 0.2
+  dashDuration: 0.2
+  dashCooldown: 1
+  doubleJumpControlDuration: 0.2
+  ladderTag: Ladder
+  ropeTag: Rope
+  ladderClimbingSpeed: 5
+  ropeClimbingSpeed: 3
+  ropeSlideSpeed: 1
+  climbActionName: Climb
 --- !u!95 &2050975634
 Animator:
   serializedVersion: 5
@@ -73133,7 +73175,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5fdaa0d41b74a13488973f2b6e419bed, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  startingHealth: 3
 --- !u!114 &2050975636
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -73146,9 +73187,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b6485970ab116b142a867119dfc286c6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  playerHealth: {fileID: 2050975635}
-  totalhealthBar: {fileID: 0}
-  currenthealthBar: {fileID: 0}
 --- !u!70 &2050975637
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -73196,6 +73234,36 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9f9a7fb176f34ba44b7de9f739876647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!114 &2050975639
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2050975628}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 62899f850307741f2a39c98a8b639597, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Actions: {fileID: 0}
+  m_NotificationBehavior: 0
+  m_UIInputModule: {fileID: 0}
+  m_DeviceLostEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  m_DeviceRegainedEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  m_ControlsChangedEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  m_ActionEvents: []
+  m_NeverAutoSwitchControlSchemes: 0
+  m_DefaultControlScheme: 
+  m_DefaultActionMap: 
+  m_SplitScreenIndex: -1
+  m_Camera: {fileID: 0}
 --- !u!1 &2063992521
 GameObject:
   m_ObjectHideFlags: 0
@@ -73539,7 +73607,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b3c5c6c6b25e41948a10e2b6f02ce8c1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  player: {fileID: 2050975638}
 --- !u!61 &2100325981
 BoxCollider2D:
   m_ObjectHideFlags: 0

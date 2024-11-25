@@ -34,7 +34,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -43,7 +43,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -72,7 +72,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -106,9 +106,505 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: sheet_standing-ipad_0
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 1660
+        width: 312
+        height: 386
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b92c6d9d1a8c0ed4fa9a6319d9089813
+      internalID: 815362984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_standing-ipad_1
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 1660
+        width: 306
+        height: 386
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a8edc55314742e459b4a793f54f1d7f
+      internalID: 2008955231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_standing-ipad_2
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 1658
+        width: 307
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6878118ea17f014db28b14d987b9aa0
+      internalID: 1497541383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_standing-ipad_3
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 1658
+        width: 309
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e623f8b2103e2344a25e54686a7c131
+      internalID: -128008874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_standing-ipad_4
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 1657
+        width: 307
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 374d4a14e80b6c74bbfbf615b31b046e
+      internalID: -601228259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_standing-ipad_5
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 1263
+        width: 309
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f4993759de65e4459184be6c3b8e2de
+      internalID: -1313265596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_standing-ipad_6
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 1263
+        width: 324
+        height: 389
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9353553bc6c47b547a81a2bcc47bdee8
+      internalID: 1016179302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_standing-ipad_7
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 1263
+        width: 326
+        height: 389
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dfda940fc6f1764a87be0392249b029
+      internalID: 1137648239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_standing-ipad_8
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 1262
+        width: 309
+        height: 389
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc8a3861a5442a1448141b071001abb1
+      internalID: 1600881164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_standing-ipad_9
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 1262
+        width: 312
+        height: 389
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80bf2e8ca4821224e869b2681abfa5b2
+      internalID: -420421115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_standing-ipad_10
+      rect:
+        serializedVersion: 2
+        x: 1671
+        y: 1261
+        width: 302
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 271eba70b6721e24d80b81b75deb2576
+      internalID: -208703883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_standing-ipad_11
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 865
+        width: 296
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce71f086a660caa419a8f4e2fc715dd3
+      internalID: 1980284044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_standing-ipad_12
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 865
+        width: 326
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 273dc25cd089c484f9bacb63e69e8d84
+      internalID: -879572134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_standing-ipad_13
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 865
+        width: 327
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed36ccda965acba44981a9b5f8e2dde6
+      internalID: 1113889796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_standing-ipad_14
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 865
+        width: 327
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f99416287e048e440b378bfa4285d70b
+      internalID: -1610299552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_standing-ipad_15
+      rect:
+        serializedVersion: 2
+        x: 1322
+        y: 864
+        width: 313
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be21730843080344382f078783bc41a3
+      internalID: -1543045676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_standing-ipad_16
+      rect:
+        serializedVersion: 2
+        x: 1656
+        y: 864
+        width: 317
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 668bbf8bfc4d0bd4fb10634630320f11
+      internalID: -2102916823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_standing-ipad_17
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 467
+        width: 317
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6465b9c9fff483141b56f11228d548e0
+      internalID: 160216990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_standing-ipad_18
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 466
+        width: 296
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bc8d110f9d85c943a2e6e6a8960c811
+      internalID: 646234904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_standing-ipad_19
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 466
+        width: 301
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 618c98e29ff679449935e99ca7416426
+      internalID: -426218688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_standing-ipad_20
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 465
+        width: 313
+        height: 394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e87f30079eb9d544c91c539089a8f7f3
+      internalID: 640877595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_standing-ipad_21
+      rect:
+        serializedVersion: 2
+        x: 1355
+        y: 465
+        width: 307
+        height: 394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b068bd37c480b3949ad311853452f89a
+      internalID: -1170653515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_standing-ipad_22
+      rect:
+        serializedVersion: 2
+        x: 1679
+        y: 464
+        width: 294
+        height: 395
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3903a2d61e039a6428e0c27a9b6c5258
+      internalID: 1821715029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -119,7 +615,30 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sheet_standing-ipad_0: 815362984
+      sheet_standing-ipad_1: 2008955231
+      sheet_standing-ipad_10: -208703883
+      sheet_standing-ipad_11: 1980284044
+      sheet_standing-ipad_12: -879572134
+      sheet_standing-ipad_13: 1113889796
+      sheet_standing-ipad_14: -1610299552
+      sheet_standing-ipad_15: -1543045676
+      sheet_standing-ipad_16: -2102916823
+      sheet_standing-ipad_17: 160216990
+      sheet_standing-ipad_18: 646234904
+      sheet_standing-ipad_19: -426218688
+      sheet_standing-ipad_2: 1497541383
+      sheet_standing-ipad_20: 640877595
+      sheet_standing-ipad_21: -1170653515
+      sheet_standing-ipad_22: 1821715029
+      sheet_standing-ipad_3: -128008874
+      sheet_standing-ipad_4: -601228259
+      sheet_standing-ipad_5: -1313265596
+      sheet_standing-ipad_6: 1016179302
+      sheet_standing-ipad_7: 1137648239
+      sheet_standing-ipad_8: 1600881164
+      sheet_standing-ipad_9: -420421115
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
