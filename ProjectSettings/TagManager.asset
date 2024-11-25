@@ -7,6 +7,8 @@ TagManager:
   - Ground
   - platform
   - Rope
+  - Ladder
+  - Interactable
   layers:
   - Default
   - TransparentFX
@@ -16,9 +18,9 @@ TagManager:
   - UI
   - Ground
   - Wall
-  - 
-  - 
-  - 
+  - Interactable
+  - Player
+  - Box
   - 
   - 
   - 

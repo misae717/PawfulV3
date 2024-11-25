@@ -71687,15 +71687,12 @@ MonoBehaviour:
   m_DeviceLostEvent:
     m_PersistentCalls:
       m_Calls: []
-    m_CallsDirty: 1
   m_DeviceRegainedEvent:
     m_PersistentCalls:
       m_Calls: []
-    m_CallsDirty: 1
   m_ControlsChangedEvent:
     m_PersistentCalls:
       m_Calls: []
-    m_CallsDirty: 1
   m_ActionEvents: []
   m_NeverAutoSwitchControlSchemes: 0
   m_DefaultControlScheme: 
