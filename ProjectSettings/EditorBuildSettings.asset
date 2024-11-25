@@ -9,6 +9,6 @@ EditorBuildSettings:
     path: Assets/Levels/Level1.unity
     guid: 2cda990e2423bbf4892e6590ba056729
   - enabled: 1
-    path: Assets/Levels/Saleh.unity
+    path: Assets/Levels/New folder/Saleh.unity
     guid: 0b9835080e71a3143b8b76ab88f70b36
   m_configObjects: {}
