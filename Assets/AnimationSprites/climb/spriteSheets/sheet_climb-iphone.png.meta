@@ -43,12 +43,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 80
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -108,7 +108,280 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: sheet_climb-iphone_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 99
+        width: 68
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36d11de78fdb5ac4b8bf0cdf8c3c9c4c
+      internalID: 956474832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_climb-iphone_1
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 98
+        width: 63
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43d0d72edbcd9c843a2574a484db73d2
+      internalID: 1212994150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_climb-iphone_2
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 98
+        width: 66
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 641c456bd22ed6240a06c1d25ccd2eaa
+      internalID: 1476493950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_climb-iphone_3
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 98
+        width: 72
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d25f301f01e86b940825596753c3432d
+      internalID: -540965388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_climb-iphone_4
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 96
+        width: 65
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94972e7cdad79444687bb86d0cadb71a
+      internalID: -1796688922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_climb-iphone_5
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 96
+        width: 66
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31b11935a0180174da4fecb903955f2f
+      internalID: 754192596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_climb-iphone_6
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 95
+        width: 62
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfc0769a74195ca4c9ad43f3aa02e8c1
+      internalID: -597859875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_climb-iphone_7
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 93
+        width: 61
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1313faa8f6109904590eec88268889be
+      internalID: -604103151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_climb-iphone_8
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 92
+        width: 63
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad29c465285a4ea4ca5e17c4a6666453
+      internalID: 502740390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_climb-iphone_9
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 91
+        width: 63
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72ad0dba1ad733a40b9a54f39543daa2
+      internalID: -1398829213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_climb-iphone_10
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 91
+        width: 63
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c104b2a452eb3ea49a701ddd956ded6c
+      internalID: 248423605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_climb-iphone_11
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 92
+        width: 62
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9df22c798136041488556a69a459a491
+      internalID: -895793417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_climb-iphone_12
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 90
+        width: 62
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f530bb6d5af1f5749a5c5bd051013b41
+      internalID: 1536441470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -119,7 +392,20 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sheet_climb-iphone_0: 956474832
+      sheet_climb-iphone_1: 1212994150
+      sheet_climb-iphone_10: 248423605
+      sheet_climb-iphone_11: -895793417
+      sheet_climb-iphone_12: 1536441470
+      sheet_climb-iphone_2: 1476493950
+      sheet_climb-iphone_3: -540965388
+      sheet_climb-iphone_4: -1796688922
+      sheet_climb-iphone_5: 754192596
+      sheet_climb-iphone_6: -597859875
+      sheet_climb-iphone_7: -604103151
+      sheet_climb-iphone_8: 502740390
+      sheet_climb-iphone_9: -1398829213
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
