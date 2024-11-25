@@ -1,0 +1,59 @@
+<!DOCTYPE spritesheets>
+<spritesheets>
+ <spritesheet resolution="ipad" width="2048" height="1024" name="sheet_Run" filename="spriteSheets/sheet_Run-ipad.png">
+  <sprite scaleY="1" angleDegrees="0" rect="1497,424,371,432" offsetX="-216" offsetY="-225" name="Run-00002.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="1112,424,385,428" offsetX="-231" offsetY="-223" name="Run-00010.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="745,424,367,426" offsetX="-213" offsetY="-223" name="Run-00009.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="371,424,374,424" offsetX="-212" offsetY="-216" name="Run-00005.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="0,424,371,424" offsetX="-214" offsetY="-229" name="Run-00001.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="1497,0,371,424" offsetX="-209" offsetY="-217" name="Run-00007.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="1119,0,378,417" offsetX="-221" offsetY="-210" name="Run-00003.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="745,0,374,415" offsetX="-200" offsetY="-214" name="Run-00006.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="379,0,366,414" offsetX="-211" offsetY="-206" name="Run-00008.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="6,0,373,412" offsetX="-219" offsetY="-211" name="Run-00004.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="0,424,371,424" offsetX="-214" offsetY="-229" name="Run-00011.png" scaleX="1"/>
+ </spritesheet>
+ <spritesheet resolution="ipad-retina" width="2048" height="2048" name="sheet_Run" filename="spriteSheets/sheet_Run-ipad-retina.png">
+  <sprite scaleY="1" angleDegrees="0" rect="766,846,737,859" offsetX="-430" offsetY="-447" name="Run-00002.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="0,846,766,852" offsetX="-460" offsetY="-444" name="Run-00010.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="775,0,728,846" offsetX="-423" offsetY="-443" name="Run-00009.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="37,0,738,843" offsetX="-416" offsetY="-431" name="Run-00007.png" scaleX="1"/>
+ </spritesheet>
+ <spritesheet resolution="ipad-retina" width="2048" height="2048" name="sheet_Run" filename="spriteSheets/sheet_Run-ipad-retina-01.png">
+  <sprite scaleY="1" angleDegrees="0" rect="751,830,743,842" offsetX="-421" offsetY="-429" name="Run-00005.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="13,830,738,842" offsetX="-426" offsetY="-455" name="Run-00001.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="744,0,750,830" offsetX="-439" offsetY="-418" name="Run-00003.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="0,0,744,824" offsetX="-398" offsetY="-425" name="Run-00006.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="13,830,738,842" offsetX="-426" offsetY="-455" name="Run-00011.png" scaleX="1"/>
+ </spritesheet>
+ <spritesheet resolution="ipad-retina" width="1024" height="2048" name="sheet_Run" filename="spriteSheets/sheet_Run-ipad-retina-02.png">
+  <sprite scaleY="1" angleDegrees="0" rect="0,824,742,819" offsetX="-436" offsetY="-419" name="Run-00004.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="14,0,728,824" offsetX="-420" offsetY="-410" name="Run-00008.png" scaleX="1"/>
+ </spritesheet>
+ <spritesheet resolution="iphone" width="2048" height="256" name="sheet_Run" filename="spriteSheets/sheet_Run-iphone.png">
+  <sprite scaleY="1" angleDegrees="0" rect="1599,0,177,205" offsetX="-103" offsetY="-107" name="Run-00002.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="1415,0,184,204" offsetX="-110" offsetY="-106" name="Run-00010.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="1237,0,178,202" offsetX="-101" offsetY="-103" name="Run-00005.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="1061,0,176,202" offsetX="-99" offsetY="-103" name="Run-00007.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="887,0,174,202" offsetX="-101" offsetY="-106" name="Run-00009.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="710,0,177,201" offsetX="-102" offsetY="-108" name="Run-00001.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="530,0,180,198" offsetX="-105" offsetY="-100" name="Run-00003.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="356,0,174,197" offsetX="-100" offsetY="-98" name="Run-00008.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="178,0,178,196" offsetX="-104" offsetY="-100" name="Run-00004.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="0,0,178,196" offsetX="-95" offsetY="-101" name="Run-00006.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="710,0,177,201" offsetX="-102" offsetY="-108" name="Run-00011.png" scaleX="1"/>
+ </spritesheet>
+ <spritesheet resolution="iphone-retina" width="2048" height="2048" name="sheet_Run" filename="spriteSheets/sheet_Run-iphone-retina.png">
+  <sprite scaleY="1" angleDegrees="0" rect="1248,929,411,478" offsetX="-240" offsetY="-248.5" name="Run-00002.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="821,929,427,475" offsetX="-256" offsetY="-247.5" name="Run-00010.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="415,929,406,472" offsetX="-236" offsetY="-247.5" name="Run-00009.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="3,929,412,470" offsetX="-232" offsetY="-240.5" name="Run-00007.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="1248,459,411,470" offsetX="-237" offsetY="-253.5" name="Run-00001.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="833,459,415,469" offsetX="-235" offsetY="-239.5" name="Run-00005.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="415,459,418,463" offsetX="-245" offsetY="-233.5" name="Run-00003.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="0,459,415,459" offsetX="-222" offsetY="-236.5" name="Run-00006.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="1253,0,406,459" offsetX="-234" offsetY="-228.5" name="Run-00008.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="839,0,414,456" offsetX="-243" offsetY="-233.5" name="Run-00004.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="1248,459,411,470" offsetX="-237" offsetY="-253.5" name="Run-00011.png" scaleX="1"/>
+ </spritesheet>
+</spritesheets>

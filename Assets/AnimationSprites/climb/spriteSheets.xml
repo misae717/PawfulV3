@@ -1,0 +1,115 @@
+<!DOCTYPE spritesheets>
+<spritesheets>
+ <spritesheet resolution="ipad" width="2048" height="512" name="sheet_climb" filename="spriteSheets/sheet_climb-ipad.png">
+  <sprite scaleY="1" angleDegrees="0" rect="1708,0,140,352" offsetX="-32" offsetY="-160" name="Climb-00015.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="1570,0,138,351" offsetX="-30" offsetY="-159" name="Climb-00017.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="1434,0,136,351" offsetX="-26" offsetY="-160" name="Climb-00013.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="1295,0,139,350" offsetX="-31" offsetY="-159" name="Climb-00019.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="1155,0,140,347" offsetX="-31" offsetY="-158" name="Climb-00021.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="1022,0,133,347" offsetX="-26" offsetY="-160" name="Climb-00011.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="886,0,136,344" offsetX="-28" offsetY="-160" name="Climb-00009.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="745,0,141,340" offsetX="-33" offsetY="-159" name="Climb-00007.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="587,0,158,338" offsetX="-43" offsetY="-158" name="Climb-00001.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="443,0,144,338" offsetX="-33" offsetY="-158" name="Climb-00005.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="300,0,143,338" offsetX="-35" offsetY="-158" name="Climb-00023.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="152,0,148,337" offsetX="-37" offsetY="-157" name="Climb-00025.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="0,0,152,334" offsetX="-38" offsetY="-158" name="Climb-00003.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="1708,0,140,352" offsetX="-32" offsetY="-160" name="Climb-00016.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="1434,0,136,351" offsetX="-26" offsetY="-160" name="Climb-00014.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="1155,0,140,347" offsetX="-31" offsetY="-158" name="Climb-00022.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="886,0,136,344" offsetX="-28" offsetY="-160" name="Climb-00010.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="587,0,158,338" offsetX="-43" offsetY="-158" name="Climb-00002.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="300,0,143,338" offsetX="-35" offsetY="-158" name="Climb-00024.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="0,0,152,334" offsetX="-38" offsetY="-158" name="Climb-00004.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="1570,0,138,351" offsetX="-30" offsetY="-159" name="Climb-00018.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="1022,0,133,347" offsetX="-26" offsetY="-160" name="Climb-00012.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="443,0,144,338" offsetX="-33" offsetY="-158" name="Climb-00006.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="1295,0,139,350" offsetX="-31" offsetY="-159" name="Climb-00020.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="152,0,148,337" offsetX="-37" offsetY="-157" name="Climb-00026.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="745,0,141,340" offsetX="-33" offsetY="-159" name="Climb-00008.png" scaleX="1"/>
+ </spritesheet>
+ <spritesheet resolution="ipad-retina" width="2048" height="2048" name="sheet_climb" filename="spriteSheets/sheet_climb-ipad-retina.png">
+  <sprite scaleY="1" angleDegrees="0" rect="1617,674,275,699" offsetX="-61" offsetY="-317" name="Climb-00015.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="1349,674,268,698" offsetX="-50" offsetY="-318" name="Climb-00013.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="1077,674,272,696" offsetX="-58" offsetY="-315" name="Climb-00017.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="805,674,272,695" offsetX="-59" offsetY="-315" name="Climb-00019.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="543,674,262,690" offsetX="-50" offsetY="-318" name="Climb-00011.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="268,674,275,689" offsetX="-60" offsetY="-314" name="Climb-00021.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="0,674,268,682" offsetX="-54" offsetY="-317" name="Climb-00009.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="1614,0,278,674" offsetX="-64" offsetY="-315" name="Climb-00007.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="1304,0,310,672" offsetX="-83" offsetY="-314" name="Climb-00001.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="1024,0,280,672" offsetX="-67" offsetY="-314" name="Climb-00023.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="740,0,284,671" offsetX="-64" offsetY="-314" name="Climb-00005.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="449,0,291,669" offsetX="-72" offsetY="-312" name="Climb-00025.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="149,0,300,663" offsetX="-74" offsetY="-313" name="Climb-00003.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="1617,674,275,699" offsetX="-61" offsetY="-317" name="Climb-00016.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="1077,674,272,696" offsetX="-58" offsetY="-315" name="Climb-00018.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="543,674,262,690" offsetX="-50" offsetY="-318" name="Climb-00012.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="0,674,268,682" offsetX="-54" offsetY="-317" name="Climb-00010.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="1304,0,310,672" offsetX="-83" offsetY="-314" name="Climb-00002.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="740,0,284,671" offsetX="-64" offsetY="-314" name="Climb-00006.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="149,0,300,663" offsetX="-74" offsetY="-313" name="Climb-00004.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="1349,674,268,698" offsetX="-50" offsetY="-318" name="Climb-00014.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="268,674,275,689" offsetX="-60" offsetY="-314" name="Climb-00022.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="1024,0,280,672" offsetX="-67" offsetY="-314" name="Climb-00024.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="805,674,272,695" offsetX="-59" offsetY="-315" name="Climb-00020.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="449,0,291,669" offsetX="-72" offsetY="-312" name="Climb-00026.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="1614,0,278,674" offsetX="-64" offsetY="-315" name="Climb-00008.png" scaleX="1"/>
+ </spritesheet>
+ <spritesheet resolution="iphone" width="1024" height="256" name="sheet_climb" filename="spriteSheets/sheet_climb-iphone.png">
+  <sprite scaleY="1" angleDegrees="0" rect="835,0,67,168" offsetX="-14" offsetY="-77" name="Climb-00013.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="767,0,68,167" offsetX="-16" offsetY="-76" name="Climb-00015.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="699,0,68,167" offsetX="-16" offsetY="-76" name="Climb-00019.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="632,0,67,167" offsetX="-15" offsetY="-76" name="Climb-00017.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="564,0,68,166" offsetX="-16" offsetY="-76" name="Climb-00021.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="498,0,66,165" offsetX="-14" offsetY="-76" name="Climb-00011.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="431,0,67,163" offsetX="-15" offsetY="-76" name="Climb-00009.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="361,0,70,162" offsetX="-17" offsetY="-76" name="Climb-00005.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="292,0,69,162" offsetX="-17" offsetY="-76" name="Climb-00007.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="216,0,76,161" offsetX="-21" offsetY="-75" name="Climb-00001.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="144,0,72,161" offsetX="-19" offsetY="-75" name="Climb-00025.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="74,0,70,161" offsetX="-18" offsetY="-75" name="Climb-00023.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="0,0,74,159" offsetX="-19" offsetY="-75" name="Climb-00003.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="835,0,67,168" offsetX="-14" offsetY="-77" name="Climb-00014.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="699,0,68,167" offsetX="-16" offsetY="-76" name="Climb-00020.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="564,0,68,166" offsetX="-16" offsetY="-76" name="Climb-00022.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="431,0,67,163" offsetX="-15" offsetY="-76" name="Climb-00010.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="292,0,69,162" offsetX="-17" offsetY="-76" name="Climb-00008.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="144,0,72,161" offsetX="-19" offsetY="-75" name="Climb-00026.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="0,0,74,159" offsetX="-19" offsetY="-75" name="Climb-00004.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="767,0,68,167" offsetX="-16" offsetY="-76" name="Climb-00016.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="498,0,66,165" offsetX="-14" offsetY="-76" name="Climb-00012.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="216,0,76,161" offsetX="-21" offsetY="-75" name="Climb-00002.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="632,0,67,167" offsetX="-15" offsetY="-76" name="Climb-00018.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="74,0,70,161" offsetX="-18" offsetY="-75" name="Climb-00024.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="361,0,70,162" offsetX="-17" offsetY="-76" name="Climb-00006.png" scaleX="1"/>
+ </spritesheet>
+ <spritesheet resolution="iphone-retina" width="2048" height="512" name="sheet_climb" filename="spriteSheets/sheet_climb-iphone-retina.png">
+  <sprite scaleY="1" angleDegrees="0" rect="1892,0,155,389" offsetX="-35" offsetY="-176.5" name="Climb-00015.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="1739,0,153,389" offsetX="-33" offsetY="-176.5" name="Climb-00017.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="1588,0,151,389" offsetX="-29" offsetY="-177.5" name="Climb-00013.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="1435,0,153,387" offsetX="-34" offsetY="-175.5" name="Climb-00019.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="1280,0,155,385" offsetX="-35" offsetY="-175.5" name="Climb-00021.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="1132,0,148,385" offsetX="-29" offsetY="-177.5" name="Climb-00011.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="981,0,151,380" offsetX="-31" offsetY="-176.5" name="Climb-00009.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="824,0,157,377" offsetX="-37" offsetY="-176.5" name="Climb-00007.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="650,0,174,375" offsetX="-47" offsetY="-175.5" name="Climb-00001.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="490,0,160,375" offsetX="-37" offsetY="-175.5" name="Climb-00005.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="333,0,157,375" offsetX="-38" offsetY="-175.5" name="Climb-00023.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="169,0,164,374" offsetX="-41" offsetY="-174.5" name="Climb-00025.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="0,0,169,370" offsetX="-42" offsetY="-174.5" name="Climb-00003.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="1892,0,155,389" offsetX="-35" offsetY="-176.5" name="Climb-00016.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="1588,0,151,389" offsetX="-29" offsetY="-177.5" name="Climb-00014.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="1280,0,155,385" offsetX="-35" offsetY="-175.5" name="Climb-00022.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="981,0,151,380" offsetX="-31" offsetY="-176.5" name="Climb-00010.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="650,0,174,375" offsetX="-47" offsetY="-175.5" name="Climb-00002.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="333,0,157,375" offsetX="-38" offsetY="-175.5" name="Climb-00024.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="0,0,169,370" offsetX="-42" offsetY="-174.5" name="Climb-00004.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="1739,0,153,389" offsetX="-33" offsetY="-176.5" name="Climb-00018.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="1132,0,148,385" offsetX="-29" offsetY="-177.5" name="Climb-00012.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="490,0,160,375" offsetX="-37" offsetY="-175.5" name="Climb-00006.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="1435,0,153,387" offsetX="-34" offsetY="-175.5" name="Climb-00020.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="169,0,164,374" offsetX="-41" offsetY="-174.5" name="Climb-00026.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="824,0,157,377" offsetX="-37" offsetY="-176.5" name="Climb-00008.png" scaleX="1"/>
+ </spritesheet>
+</spritesheets>

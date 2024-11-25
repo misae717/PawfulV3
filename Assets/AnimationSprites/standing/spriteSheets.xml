@@ -1,0 +1,149 @@
+<!DOCTYPE spritesheets>
+<spritesheets>
+ <spritesheet resolution="ipad" width="2048" height="2048" name="sheet_standing" filename="spriteSheets/sheet_standing-ipad.png">
+  <sprite scaleY="1" angleDegrees="0" rect="1666,1187,311,411" offsetX="-294" offsetY="-190" name="Standing-00001.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="1346,1187,320,399" offsetX="-303" offsetY="-193" name="Standing-00007.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="1026,1187,320,399" offsetX="-303" offsetY="-193" name="Standing-00009.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="713,1187,313,398" offsetX="-296" offsetY="-192" name="Standing-00005.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="403,1187,310,398" offsetX="-293" offsetY="-192" name="Standing-00004.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="65,1187,338,397" offsetX="-321" offsetY="-191" name="Standing-00011.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="1639,790,338,397" offsetX="-321" offsetY="-191" name="Standing-00012.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="1319,790,320,397" offsetX="-303" offsetY="-191" name="Standing-00010.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="982,790,337,396" offsetX="-320" offsetY="-190" name="Standing-00013.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="645,790,337,396" offsetX="-320" offsetY="-190" name="Standing-00014.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="310,790,335,396" offsetX="-318" offsetY="-190" name="Standing-00015.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="0,790,310,396" offsetX="-293" offsetY="-190" name="Standing-00003.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="1668,394,309,396" offsetX="-292" offsetY="-190" name="Standing-00031.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="1341,394,327,395" offsetX="-310" offsetY="-189" name="Standing-00028.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="1021,394,320,395" offsetX="-303" offsetY="-189" name="Standing-00029.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="686,394,335,394" offsetX="-318" offsetY="-188" name="Standing-00016.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="352,394,334,394" offsetX="-317" offsetY="-188" name="Standing-00017.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="35,394,317,394" offsetX="-300" offsetY="-188" name="Standing-00023.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="1663,0,314,394" offsetX="-297" offsetY="-188" name="Standing-00022.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="1348,0,315,393" offsetX="-298" offsetY="-187" name="Standing-00019.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="1034,0,314,393" offsetX="-297" offsetY="-187" name="Standing-00021.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="705,0,329,391" offsetX="-312" offsetY="-185" name="Standing-00025.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="378,0,327,391" offsetX="-310" offsetY="-185" name="Standing-00027.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="1666,1187,311,411" offsetX="-294" offsetY="-190" name="Standing-00002.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="713,1187,313,398" offsetX="-296" offsetY="-192" name="Standing-00006.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="1021,394,320,395" offsetX="-303" offsetY="-189" name="Standing-00030.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="35,394,317,394" offsetX="-300" offsetY="-188" name="Standing-00024.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="705,0,329,391" offsetX="-312" offsetY="-185" name="Standing-00026.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="1346,1187,320,399" offsetX="-303" offsetY="-193" name="Standing-00008.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="352,394,334,394" offsetX="-317" offsetY="-188" name="Standing-00018.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="1668,394,309,396" offsetX="-292" offsetY="-190" name="Standing-00032.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="1348,0,315,393" offsetX="-298" offsetY="-187" name="Standing-00020.png" scaleX="1"/>
+ </spritesheet>
+ <spritesheet resolution="ipad-retina" width="2048" height="2048" name="sheet_standing" filename="spriteSheets/sheet_standing-ipad-retina.png">
+  <sprite scaleY="1" angleDegrees="0" rect="1290,791,618,817" offsetX="-586" offsetY="-378" name="Standing-00001.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="654,791,636,794" offsetX="-604" offsetY="-384" name="Standing-00007.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="18,791,636,794" offsetX="-604" offsetY="-384" name="Standing-00009.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="1287,0,621,791" offsetX="-589" offsetY="-381" name="Standing-00005.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="671,0,616,791" offsetX="-584" offsetY="-381" name="Standing-00004.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="0,0,671,790" offsetX="-639" offsetY="-380" name="Standing-00011.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="1290,791,618,817" offsetX="-586" offsetY="-378" name="Standing-00002.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="1287,0,621,791" offsetX="-589" offsetY="-381" name="Standing-00006.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="654,791,636,794" offsetX="-604" offsetY="-384" name="Standing-00008.png" scaleX="1"/>
+ </spritesheet>
+ <spritesheet resolution="ipad-retina" width="2048" height="2048" name="sheet_standing" filename="spriteSheets/sheet_standing-ipad-retina-01.png">
+  <sprite scaleY="1" angleDegrees="0" rect="1366,787,636,790" offsetX="-604" offsetY="-380" name="Standing-00010.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="750,787,616,788" offsetX="-584" offsetY="-378" name="Standing-00003.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="136,787,614,788" offsetX="-582" offsetY="-378" name="Standing-00031.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="1333,0,669,787" offsetX="-637" offsetY="-377" name="Standing-00013.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="665,0,668,787" offsetX="-637" offsetY="-377" name="Standing-00014.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="0,0,665,787" offsetX="-633" offsetY="-377" name="Standing-00015.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="136,787,614,788" offsetX="-582" offsetY="-378" name="Standing-00032.png" scaleX="1"/>
+ </spritesheet>
+ <spritesheet resolution="ipad-retina" width="2048" height="2048" name="sheet_standing" filename="spriteSheets/sheet_standing-ipad-retina-02.png">
+  <sprite scaleY="1" angleDegrees="0" rect="1288,784,670,790" offsetX="-639" offsetY="-380" name="Standing-00012.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="639,784,649,785" offsetX="-617" offsetY="-375" name="Standing-00028.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="4,784,635,785" offsetX="-603" offsetY="-375" name="Standing-00029.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="1293,0,665,784" offsetX="-633" offsetY="-374" name="Standing-00016.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="630,0,663,784" offsetX="-631" offsetY="-374" name="Standing-00017.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="0,0,630,784" offsetX="-598" offsetY="-374" name="Standing-00023.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="4,784,635,785" offsetX="-603" offsetY="-375" name="Standing-00030.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="0,0,630,784" offsetX="-598" offsetY="-374" name="Standing-00024.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="630,0,663,784" offsetX="-631" offsetY="-374" name="Standing-00018.png" scaleX="1"/>
+ </spritesheet>
+ <spritesheet resolution="ipad-retina" width="2048" height="2048" name="sheet_standing" filename="spriteSheets/sheet_standing-ipad-retina-03.png">
+  <sprite scaleY="1" angleDegrees="0" rect="1278,778,626,781" offsetX="-594" offsetY="-371" name="Standing-00019.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="654,778,624,781" offsetX="-592" offsetY="-371" name="Standing-00021.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="0,778,654,778" offsetX="-622" offsetY="-368" name="Standing-00025.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="1255,0,649,778" offsetX="-617" offsetY="-368" name="Standing-00027.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="1278,778,626,781" offsetX="-594" offsetY="-371" name="Standing-00020.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="0,778,654,778" offsetX="-622" offsetY="-368" name="Standing-00026.png" scaleX="1"/>
+ </spritesheet>
+ <spritesheet resolution="ipad-retina" width="1024" height="1024" name="sheet_standing" filename="spriteSheets/sheet_standing-ipad-retina-04.png">
+  <sprite scaleY="1" angleDegrees="0" rect="0,0,624,784" offsetX="-592" offsetY="-374" name="Standing-00022.png" scaleX="1"/>
+ </spritesheet>
+ <spritesheet resolution="iphone" width="2048" height="512" name="sheet_standing" filename="spriteSheets/sheet_standing-iphone.png">
+  <sprite scaleY="1" angleDegrees="0" rect="1873,188,148,195" offsetX="-139" offsetY="-90" name="Standing-00001.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="1720,188,153,190" offsetX="-144" offsetY="-92" name="Standing-00007.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="1568,188,152,190" offsetX="-143" offsetY="-92" name="Standing-00009.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="1407,188,161,189" offsetX="-152" offsetY="-91" name="Standing-00011.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="1246,188,161,189" offsetX="-152" offsetY="-91" name="Standing-00012.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="1094,188,152,189" offsetX="-143" offsetY="-91" name="Standing-00010.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="945,188,149,189" offsetX="-140" offsetY="-91" name="Standing-00005.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="797,188,148,189" offsetX="-139" offsetY="-91" name="Standing-00004.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="637,188,160,188" offsetX="-151" offsetY="-90" name="Standing-00013.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="477,188,160,188" offsetX="-151" offsetY="-90" name="Standing-00014.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="318,188,159,188" offsetX="-150" offsetY="-90" name="Standing-00015.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="159,188,159,188" offsetX="-150" offsetY="-90" name="Standing-00016.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="0,188,159,188" offsetX="-150" offsetY="-90" name="Standing-00017.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="1866,0,155,188" offsetX="-146" offsetY="-90" name="Standing-00028.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="1714,0,152,188" offsetX="-143" offsetY="-90" name="Standing-00029.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="1563,0,151,188" offsetX="-142" offsetY="-90" name="Standing-00023.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="1413,0,150,188" offsetX="-141" offsetY="-90" name="Standing-00022.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="1265,0,148,188" offsetX="-139" offsetY="-90" name="Standing-00003.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="1118,0,147,188" offsetX="-138" offsetY="-90" name="Standing-00031.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="968,0,150,187" offsetX="-141" offsetY="-89" name="Standing-00019.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="818,0,150,187" offsetX="-141" offsetY="-89" name="Standing-00021.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="661,0,157,186" offsetX="-148" offsetY="-88" name="Standing-00025.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="506,0,155,186" offsetX="-146" offsetY="-88" name="Standing-00027.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="1873,188,148,195" offsetX="-139" offsetY="-90" name="Standing-00002.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="945,188,149,189" offsetX="-140" offsetY="-91" name="Standing-00006.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="1714,0,152,188" offsetX="-143" offsetY="-90" name="Standing-00030.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="1118,0,147,188" offsetX="-138" offsetY="-90" name="Standing-00032.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="661,0,157,186" offsetX="-148" offsetY="-88" name="Standing-00026.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="1720,188,153,190" offsetX="-144" offsetY="-92" name="Standing-00008.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="1563,0,151,188" offsetX="-142" offsetY="-90" name="Standing-00024.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="0,188,159,188" offsetX="-150" offsetY="-90" name="Standing-00018.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="968,0,150,187" offsetX="-141" offsetY="-89" name="Standing-00020.png" scaleX="1"/>
+ </spritesheet>
+ <spritesheet resolution="iphone-retina" width="2048" height="2048" name="sheet_standing" filename="spriteSheets/sheet_standing-iphone-retina.png">
+  <sprite scaleY="1" angleDegrees="0" rect="1504,1316,345,455" offsetX="-326" offsetY="-210.5" name="Standing-00001.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="1149,1316,355,443" offsetX="-336" offsetY="-214.5" name="Standing-00007.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="794,1316,355,443" offsetX="-336" offsetY="-214.5" name="Standing-00009.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="447,1316,347,441" offsetX="-328" offsetY="-212.5" name="Standing-00005.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="103,1316,344,441" offsetX="-325" offsetY="-212.5" name="Standing-00004.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="1474,876,375,440" offsetX="-356" offsetY="-211.5" name="Standing-00011.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="1100,876,374,440" offsetX="-356" offsetY="-211.5" name="Standing-00012.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="745,876,355,440" offsetX="-336" offsetY="-211.5" name="Standing-00010.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="372,876,373,439" offsetX="-354" offsetY="-210.5" name="Standing-00013.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="0,876,372,439" offsetX="-354" offsetY="-210.5" name="Standing-00014.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="1478,437,371,439" offsetX="-352" offsetY="-210.5" name="Standing-00015.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="1134,437,344,439" offsetX="-325" offsetY="-210.5" name="Standing-00003.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="791,437,343,439" offsetX="-324" offsetY="-210.5" name="Standing-00031.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="420,437,371,437" offsetX="-352" offsetY="-208.5" name="Standing-00016.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="50,437,370,437" offsetX="-351" offsetY="-208.5" name="Standing-00017.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="1487,0,362,437" offsetX="-343" offsetY="-208.5" name="Standing-00028.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="1132,0,355,437" offsetX="-336" offsetY="-208.5" name="Standing-00029.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="780,0,352,437" offsetX="-333" offsetY="-208.5" name="Standing-00023.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="432,0,348,437" offsetX="-329" offsetY="-208.5" name="Standing-00022.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="82,0,350,435" offsetX="-331" offsetY="-206.5" name="Standing-00019.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="1504,1316,345,455" offsetX="-326" offsetY="-210.5" name="Standing-00002.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="447,1316,347,441" offsetX="-328" offsetY="-212.5" name="Standing-00006.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="50,437,370,437" offsetX="-351" offsetY="-208.5" name="Standing-00018.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="780,0,352,437" offsetX="-333" offsetY="-208.5" name="Standing-00024.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="1149,1316,355,443" offsetX="-336" offsetY="-214.5" name="Standing-00008.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="1132,0,355,437" offsetX="-336" offsetY="-208.5" name="Standing-00030.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="791,437,343,439" offsetX="-324" offsetY="-210.5" name="Standing-00032.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="82,0,350,435" offsetX="-331" offsetY="-206.5" name="Standing-00020.png" scaleX="1"/>
+ </spritesheet>
+ <spritesheet resolution="iphone-retina" width="2048" height="512" name="sheet_standing" filename="spriteSheets/sheet_standing-iphone-retina-01.png">
+  <sprite scaleY="1" angleDegrees="0" rect="727,0,348,435" offsetX="-329" offsetY="-206.5" name="Standing-00021.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="362,0,365,434" offsetX="-346" offsetY="-205.5" name="Standing-00025.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="0,0,362,434" offsetX="-343" offsetY="-205.5" name="Standing-00027.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="362,0,365,434" offsetX="-346" offsetY="-205.5" name="Standing-00026.png" scaleX="1"/>
+ </spritesheet>
+</spritesheets>

@@ -1,0 +1,91 @@
+<!DOCTYPE spritesheets>
+<spritesheets>
+ <spritesheet resolution="ipad" width="512" height="512" name="sheet_handsup" filename="spriteSheets/sheet_handsup-ipad.png">
+  <sprite scaleY="1" angleDegrees="0" rect="0,0,297,418" offsetX="-314" offsetY="-164" name="back_handsup-00001.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="0,0,297,418" offsetX="-314" offsetY="-164" name="back_handsup-00002.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="0,0,297,418" offsetX="-314" offsetY="-164" name="back_handsup-00004.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="0,0,297,418" offsetX="-314" offsetY="-164" name="back_handsup-00006.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="0,0,297,418" offsetX="-314" offsetY="-164" name="back_handsup-00008.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="0,0,297,418" offsetX="-314" offsetY="-164" name="back_handsup-00010.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="0,0,297,418" offsetX="-314" offsetY="-164" name="back_handsup-00012.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="0,0,297,418" offsetX="-314" offsetY="-164" name="back_handsup-00014.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="0,0,297,418" offsetX="-314" offsetY="-164" name="back_handsup-00016.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="0,0,297,418" offsetX="-314" offsetY="-164" name="back_handsup-00018.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="0,0,297,418" offsetX="-314" offsetY="-164" name="back_handsup-00020.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="0,0,297,418" offsetX="-314" offsetY="-164" name="back_handsup-00003.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="0,0,297,418" offsetX="-314" offsetY="-164" name="back_handsup-00007.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="0,0,297,418" offsetX="-314" offsetY="-164" name="back_handsup-00011.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="0,0,297,418" offsetX="-314" offsetY="-164" name="back_handsup-00015.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="0,0,297,418" offsetX="-314" offsetY="-164" name="back_handsup-00019.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="0,0,297,418" offsetX="-314" offsetY="-164" name="back_handsup-00005.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="0,0,297,418" offsetX="-314" offsetY="-164" name="back_handsup-00013.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="0,0,297,418" offsetX="-314" offsetY="-164" name="back_handsup-00009.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="0,0,297,418" offsetX="-314" offsetY="-164" name="back_handsup-00017.png" scaleX="1"/>
+ </spritesheet>
+ <spritesheet resolution="ipad-retina" width="1024" height="1024" name="sheet_handsup" filename="spriteSheets/sheet_handsup-ipad-retina.png">
+  <sprite scaleY="1" angleDegrees="0" rect="0,0,588,831" offsetX="-625" offsetY="-326" name="back_handsup-00001.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="0,0,588,831" offsetX="-625" offsetY="-326" name="back_handsup-00002.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="0,0,588,831" offsetX="-625" offsetY="-326" name="back_handsup-00004.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="0,0,588,831" offsetX="-625" offsetY="-326" name="back_handsup-00006.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="0,0,588,831" offsetX="-625" offsetY="-326" name="back_handsup-00008.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="0,0,588,831" offsetX="-625" offsetY="-326" name="back_handsup-00010.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="0,0,588,831" offsetX="-625" offsetY="-326" name="back_handsup-00012.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="0,0,588,831" offsetX="-625" offsetY="-326" name="back_handsup-00014.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="0,0,588,831" offsetX="-625" offsetY="-326" name="back_handsup-00016.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="0,0,588,831" offsetX="-625" offsetY="-326" name="back_handsup-00018.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="0,0,588,831" offsetX="-625" offsetY="-326" name="back_handsup-00020.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="0,0,588,831" offsetX="-625" offsetY="-326" name="back_handsup-00003.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="0,0,588,831" offsetX="-625" offsetY="-326" name="back_handsup-00007.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="0,0,588,831" offsetX="-625" offsetY="-326" name="back_handsup-00011.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="0,0,588,831" offsetX="-625" offsetY="-326" name="back_handsup-00015.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="0,0,588,831" offsetX="-625" offsetY="-326" name="back_handsup-00019.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="0,0,588,831" offsetX="-625" offsetY="-326" name="back_handsup-00005.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="0,0,588,831" offsetX="-625" offsetY="-326" name="back_handsup-00013.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="0,0,588,831" offsetX="-625" offsetY="-326" name="back_handsup-00009.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="0,0,588,831" offsetX="-625" offsetY="-326" name="back_handsup-00017.png" scaleX="1"/>
+ </spritesheet>
+ <spritesheet resolution="iphone" width="256" height="256" name="sheet_handsup" filename="spriteSheets/sheet_handsup-iphone.png">
+  <sprite scaleY="1" angleDegrees="0" rect="0,0,141,198" offsetX="-148" offsetY="-78" name="back_handsup-00001.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="0,0,141,198" offsetX="-148" offsetY="-78" name="back_handsup-00002.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="0,0,141,198" offsetX="-148" offsetY="-78" name="back_handsup-00004.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="0,0,141,198" offsetX="-148" offsetY="-78" name="back_handsup-00006.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="0,0,141,198" offsetX="-148" offsetY="-78" name="back_handsup-00008.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="0,0,141,198" offsetX="-148" offsetY="-78" name="back_handsup-00010.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="0,0,141,198" offsetX="-148" offsetY="-78" name="back_handsup-00012.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="0,0,141,198" offsetX="-148" offsetY="-78" name="back_handsup-00014.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="0,0,141,198" offsetX="-148" offsetY="-78" name="back_handsup-00016.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="0,0,141,198" offsetX="-148" offsetY="-78" name="back_handsup-00018.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="0,0,141,198" offsetX="-148" offsetY="-78" name="back_handsup-00020.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="0,0,141,198" offsetX="-148" offsetY="-78" name="back_handsup-00003.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="0,0,141,198" offsetX="-148" offsetY="-78" name="back_handsup-00007.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="0,0,141,198" offsetX="-148" offsetY="-78" name="back_handsup-00011.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="0,0,141,198" offsetX="-148" offsetY="-78" name="back_handsup-00015.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="0,0,141,198" offsetX="-148" offsetY="-78" name="back_handsup-00019.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="0,0,141,198" offsetX="-148" offsetY="-78" name="back_handsup-00005.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="0,0,141,198" offsetX="-148" offsetY="-78" name="back_handsup-00013.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="0,0,141,198" offsetX="-148" offsetY="-78" name="back_handsup-00009.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="0,0,141,198" offsetX="-148" offsetY="-78" name="back_handsup-00017.png" scaleX="1"/>
+ </spritesheet>
+ <spritesheet resolution="iphone-retina" width="512" height="512" name="sheet_handsup" filename="spriteSheets/sheet_handsup-iphone-retina.png">
+  <sprite scaleY="1" angleDegrees="0" rect="0,0,329,463" offsetX="-348" offsetY="-181.5" name="back_handsup-00001.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="0,0,329,463" offsetX="-348" offsetY="-181.5" name="back_handsup-00002.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="0,0,329,463" offsetX="-348" offsetY="-181.5" name="back_handsup-00004.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="0,0,329,463" offsetX="-348" offsetY="-181.5" name="back_handsup-00006.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="0,0,329,463" offsetX="-348" offsetY="-181.5" name="back_handsup-00008.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="0,0,329,463" offsetX="-348" offsetY="-181.5" name="back_handsup-00010.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="0,0,329,463" offsetX="-348" offsetY="-181.5" name="back_handsup-00012.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="0,0,329,463" offsetX="-348" offsetY="-181.5" name="back_handsup-00014.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="0,0,329,463" offsetX="-348" offsetY="-181.5" name="back_handsup-00016.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="0,0,329,463" offsetX="-348" offsetY="-181.5" name="back_handsup-00018.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="0,0,329,463" offsetX="-348" offsetY="-181.5" name="back_handsup-00020.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="0,0,329,463" offsetX="-348" offsetY="-181.5" name="back_handsup-00003.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="0,0,329,463" offsetX="-348" offsetY="-181.5" name="back_handsup-00007.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="0,0,329,463" offsetX="-348" offsetY="-181.5" name="back_handsup-00011.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="0,0,329,463" offsetX="-348" offsetY="-181.5" name="back_handsup-00015.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="0,0,329,463" offsetX="-348" offsetY="-181.5" name="back_handsup-00019.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="0,0,329,463" offsetX="-348" offsetY="-181.5" name="back_handsup-00005.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="0,0,329,463" offsetX="-348" offsetY="-181.5" name="back_handsup-00013.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="0,0,329,463" offsetX="-348" offsetY="-181.5" name="back_handsup-00009.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="0,0,329,463" offsetX="-348" offsetY="-181.5" name="back_handsup-00017.png" scaleX="1"/>
+ </spritesheet>
+</spritesheets>

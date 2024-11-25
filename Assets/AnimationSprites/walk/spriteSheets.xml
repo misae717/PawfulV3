@@ -1,0 +1,105 @@
+<!DOCTYPE spritesheets>
+<spritesheets>
+ <spritesheet resolution="ipad" width="2048" height="2048" name="sheet_walk" filename="spriteSheets/sheet_walk-ipad.png">
+  <sprite scaleY="1" angleDegrees="0" rect="1752,1262,293,436" offsetX="-176" offsetY="-237" name="Walk-00014.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="1458,1262,294,434" offsetX="-177" offsetY="-237" name="Walk-00011.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="1163,1262,295,431" offsetX="-177" offsetY="-237" name="Walk-00015.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="870,1262,293,431" offsetX="-177" offsetY="-233" name="Walk-00016.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="579,1262,291,431" offsetX="-174" offsetY="-236" name="Walk-00012.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="290,1262,289,430" offsetX="-174" offsetY="-233" name="Walk-00009.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="5,1262,285,429" offsetX="-169" offsetY="-229" name="Walk-00007.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="1750,833,295,429" offsetX="-179" offsetY="-225" name="Walk-00021.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="1453,833,297,427" offsetX="-181" offsetY="-232" name="Walk-00010.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="1162,833,291,425" offsetX="-173" offsetY="-233" name="Walk-00013.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="866,833,296,424" offsetX="-180" offsetY="-227" name="Walk-00019.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="575,833,291,424" offsetX="-175" offsetY="-229" name="Walk-00017.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="282,833,293,423" offsetX="-177" offsetY="-224" name="Walk-00022.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="1752,411,293,422" offsetX="-177" offsetY="-226" name="Walk-00006.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="1453,411,299,420" offsetX="-183" offsetY="-226" name="Walk-00020.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="1165,411,288,420" offsetX="-172" offsetY="-227" name="Walk-00008.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="870,411,295,418" offsetX="-179" offsetY="-228" name="Walk-00018.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="579,411,291,417" offsetX="-173" offsetY="-224" name="Walk-00001.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="292,411,287,415" offsetX="-171" offsetY="-224" name="Walk-00005.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="0,411,292,414" offsetX="-176" offsetY="-220" name="Walk-00004.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="1753,0,292,411" offsetX="-174" offsetY="-221" name="Walk-00002.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="1462,0,291,411" offsetX="-174" offsetY="-218" name="Walk-00003.png" scaleX="1"/>
+ </spritesheet>
+ <spritesheet resolution="ipad-retina" width="2048" height="2048" name="sheet_walk" filename="spriteSheets/sheet_walk-ipad-retina.png">
+  <sprite scaleY="1" angleDegrees="0" rect="1160,857,581,866" offsetX="-350" offsetY="-471" name="Walk-00014.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="578,857,582,862" offsetX="-351" offsetY="-471" name="Walk-00011.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="0,857,578,858" offsetX="-346" offsetY="-470" name="Walk-00012.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="1156,0,585,857" offsetX="-352" offsetY="-471" name="Walk-00015.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="576,0,580,856" offsetX="-351" offsetY="-463" name="Walk-00016.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="3,0,573,856" offsetX="-345" offsetY="-464" name="Walk-00009.png" scaleX="1"/>
+ </spritesheet>
+ <spritesheet resolution="ipad-retina" width="2048" height="2048" name="sheet_walk" filename="spriteSheets/sheet_walk-ipad-retina-01.png">
+  <sprite scaleY="1" angleDegrees="0" rect="1157,845,584,853" offsetX="-355" offsetY="-448" name="Walk-00021.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="592,845,565,853" offsetX="-336" offsetY="-455" name="Walk-00007.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="2,845,590,848" offsetX="-360" offsetY="-461" name="Walk-00010.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="1163,0,578,845" offsetX="-344" offsetY="-464" name="Walk-00013.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="576,0,587,842" offsetX="-357" offsetY="-451" name="Walk-00019.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="0,0,576,842" offsetX="-347" offsetY="-455" name="Walk-00017.png" scaleX="1"/>
+ </spritesheet>
+ <spritesheet resolution="ipad-retina" width="2048" height="2048" name="sheet_walk" filename="spriteSheets/sheet_walk-ipad-retina-02.png">
+  <sprite scaleY="1" angleDegrees="0" rect="1177,834,581,841" offsetX="-352" offsetY="-445" name="Walk-00022.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="597,834,580,839" offsetX="-351" offsetY="-449" name="Walk-00006.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="25,834,572,836" offsetX="-342" offsetY="-452" name="Walk-00008.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="1164,0,594,834" offsetX="-364" offsetY="-449" name="Walk-00020.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="578,0,586,830" offsetX="-356" offsetY="-453" name="Walk-00018.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="0,0,578,828" offsetX="-344" offsetY="-445" name="Walk-00001.png" scaleX="1"/>
+ </spritesheet>
+ <spritesheet resolution="ipad-retina" width="2048" height="2048" name="sheet_walk" filename="spriteSheets/sheet_walk-ipad-retina-03.png">
+  <sprite scaleY="1" angleDegrees="0" rect="1160,817,569,826" offsetX="-339" offsetY="-446" name="Walk-00005.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="580,817,580,824" offsetX="-350" offsetY="-438" name="Walk-00004.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="0,817,580,817" offsetX="-346" offsetY="-439" name="Walk-00002.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="1152,0,577,817" offsetX="-345" offsetY="-434" name="Walk-00003.png" scaleX="1"/>
+ </spritesheet>
+ <spritesheet resolution="iphone" width="2048" height="512" name="sheet_walk" filename="spriteSheets/sheet_walk-iphone.png">
+  <sprite scaleY="1" angleDegrees="0" rect="1818,200,140,207" offsetX="-84" offsetY="-112" name="Walk-00014.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="1678,200,140,206" offsetX="-84" offsetY="-112" name="Walk-00011.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="1539,200,139,205" offsetX="-83" offsetY="-112" name="Walk-00012.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="1401,200,138,205" offsetX="-83" offsetY="-111" name="Walk-00009.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="1260,200,141,204" offsetX="-84" offsetY="-112" name="Walk-00015.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="1119,200,141,204" offsetX="-85" offsetY="-107" name="Walk-00021.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="979,200,140,204" offsetX="-84" offsetY="-110" name="Walk-00016.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="837,200,142,203" offsetX="-86" offsetY="-110" name="Walk-00010.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="700,200,137,203" offsetX="-81" offsetY="-108" name="Walk-00007.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="558,200,142,202" offsetX="-86" offsetY="-108" name="Walk-00019.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="419,200,139,202" offsetX="-82" offsetY="-111" name="Walk-00013.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="280,200,139,202" offsetX="-83" offsetY="-109" name="Walk-00017.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="140,200,140,201" offsetX="-84" offsetY="-106" name="Walk-00022.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="0,200,140,200" offsetX="-84" offsetY="-107" name="Walk-00006.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="1820,0,138,200" offsetX="-82" offsetY="-108" name="Walk-00008.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="1677,0,143,199" offsetX="-87" offsetY="-107" name="Walk-00020.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="1536,0,141,198" offsetX="-85" offsetY="-108" name="Walk-00018.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="1397,0,139,198" offsetX="-82" offsetY="-106" name="Walk-00001.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="1257,0,140,197" offsetX="-84" offsetY="-105" name="Walk-00004.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="1120,0,137,197" offsetX="-81" offsetY="-106" name="Walk-00005.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="981,0,139,196" offsetX="-83" offsetY="-104" name="Walk-00003.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="841,0,140,195" offsetX="-83" offsetY="-105" name="Walk-00002.png" scaleX="1"/>
+ </spritesheet>
+ <spritesheet resolution="iphone-retina" width="2048" height="2048" name="sheet_walk" filename="spriteSheets/sheet_walk-iphone-retina.png">
+  <sprite scaleY="1" angleDegrees="0" rect="1624,1405,324,483" offsetX="-195" offsetY="-262.5" name="Walk-00014.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="1299,1405,325,481" offsetX="-196" offsetY="-262.5" name="Walk-00011.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="973,1405,326,478" offsetX="-196" offsetY="-262.5" name="Walk-00015.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="649,1405,324,478" offsetX="-196" offsetY="-258.5" name="Walk-00016.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="326,1405,323,478" offsetX="-193" offsetY="-261.5" name="Walk-00012.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="6,1405,320,477" offsetX="-192" offsetY="-258.5" name="Walk-00009.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="1622,930,326,475" offsetX="-198" offsetY="-249.5" name="Walk-00021.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="1306,930,316,475" offsetX="-188" offsetY="-253.5" name="Walk-00007.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="977,930,329,472" offsetX="-201" offsetY="-256.5" name="Walk-00010.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="654,930,323,471" offsetX="-192" offsetY="-258.5" name="Walk-00013.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="327,930,327,469" offsetX="-199" offsetY="-251.5" name="Walk-00019.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="3,930,324,469" offsetX="-196" offsetY="-248.5" name="Walk-00022.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="1626,461,322,469" offsetX="-194" offsetY="-253.5" name="Walk-00017.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="1302,461,324,468" offsetX="-196" offsetY="-250.5" name="Walk-00006.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="982,461,320,466" offsetX="-191" offsetY="-251.5" name="Walk-00008.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="651,461,331,465" offsetX="-203" offsetY="-250.5" name="Walk-00020.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="323,461,328,463" offsetX="-199" offsetY="-252.5" name="Walk-00018.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="0,461,323,461" offsetX="-192" offsetY="-247.5" name="Walk-00001.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="1631,0,317,461" offsetX="-189" offsetY="-248.5" name="Walk-00005.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="1307,0,324,460" offsetX="-195" offsetY="-244.5" name="Walk-00004.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="983,0,324,455" offsetX="-193" offsetY="-244.5" name="Walk-00002.png" scaleX="1"/>
+  <sprite scaleY="1" angleDegrees="0" rect="661,0,322,455" offsetX="-192" offsetY="-241.5" name="Walk-00003.png" scaleX="1"/>
+ </spritesheet>
+</spritesheets>
