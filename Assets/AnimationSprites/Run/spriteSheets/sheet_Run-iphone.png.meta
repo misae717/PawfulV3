@@ -43,12 +43,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 50
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -108,7 +108,217 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: sheet_Run-iphone_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 63
+        width: 171
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 605053f0f61c523449e22e30807a1796
+      internalID: -1191100947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_Run-iphone_1
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 63
+        width: 173
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04e9ef28905cb544cb37b5b18202c5a8
+      internalID: 1165933149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_Run-iphone_2
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 62
+        width: 168
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30c2d6a70163d4148bbd4473f88b1681
+      internalID: -1332202280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_Run-iphone_3
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 60
+        width: 173
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b3cccf7910713f42b4b2276fe6c2d03
+      internalID: 1156796628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_Run-iphone_4
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 58
+        width: 170
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd73b3a6169aa584b9ef33f36bac9fc8
+      internalID: -1868289028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_Run-iphone_5
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 58
+        width: 167
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09a186f648cab1e44819198a0e36bf43
+      internalID: 1290539168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_Run-iphone_6
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 60
+        width: 171
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6de6ca81a6aecf459c63123b0e94669
+      internalID: 2143374664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_Run-iphone_7
+      rect:
+        serializedVersion: 2
+        x: 1241
+        y: 59
+        width: 172
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49f8b12a177c5b645a3ec061bd6f45b4
+      internalID: 265530783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_Run-iphone_8
+      rect:
+        serializedVersion: 2
+        x: 1419
+        y: 57
+        width: 176
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03e3991a0d3da0b4ebc3db778d2de83c
+      internalID: 705416926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_Run-iphone_9
+      rect:
+        serializedVersion: 2
+        x: 1603
+        y: 56
+        width: 170
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99377b491eed878438bc6b30a4a15a4d
+      internalID: 538916385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -119,7 +329,17 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sheet_Run-iphone_0: -1191100947
+      sheet_Run-iphone_1: 1165933149
+      sheet_Run-iphone_2: -1332202280
+      sheet_Run-iphone_3: 1156796628
+      sheet_Run-iphone_4: -1868289028
+      sheet_Run-iphone_5: 1290539168
+      sheet_Run-iphone_6: 2143374664
+      sheet_Run-iphone_7: 265530783
+      sheet_Run-iphone_8: 705416926
+      sheet_Run-iphone_9: 538916385
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
