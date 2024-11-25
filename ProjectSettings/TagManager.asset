@@ -7,7 +7,6 @@ TagManager:
   - Ground
   - platform
   - Rope
-  - Ladder
   layers:
   - Default
   - TransparentFX
