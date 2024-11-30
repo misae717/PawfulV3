@@ -121,7 +121,7 @@ public class PlayerMovement : MonoBehaviour
     private static readonly int IsJumping = Animator.StringToHash("IsJumping");
     private static readonly int IsClimbing = Animator.StringToHash("IsClimbing");
     private static readonly int VerticalSpeed = Animator.StringToHash("VerticalSpeed");
-    private static readonly int Dash = Animator.StringToHash("Dash"); // Example trigger
+    private static readonly int Dash = Animator.StringToHash("Dash"); 
     private static readonly int IsClimbingLadder = Animator.StringToHash("IsClimbingLadder");
     private static readonly int IsClimbingRope = Animator.StringToHash("IsClimbingRope");
 
