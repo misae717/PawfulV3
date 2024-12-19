@@ -374,19 +374,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   videoPlayer: {fileID: 2060830383}
   videoPaths:
-  - sh01.mov
-  - sh02.mov
-  - sh03.mov
-  - sh04.mov
-  - sh05.mov
-  - sh06.mov
-  - sh07.mov
-  - sh08.mov
-  - sh09.mov
-  - sh010.mov
-  - sh011.mov
-  - sh012.mov
-  - sh013.mov
+  - intro_1_1.mov
 --- !u!328 &2060830383
 VideoPlayer:
   m_ObjectHideFlags: 0
